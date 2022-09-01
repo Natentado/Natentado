@@ -1,8 +1,12 @@
 # Olá, sou Nathan Molina!
 
 💻 - Desenvolvedor Front End formado pela Kenzie Academy! <br>
-🧮 - Estudando testes. <br>
 
+<h2>🧮 - Estudando: 
+ <img alt="Nate-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+ <img alt="Nate-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></h2>
+ 
+ <br>
 <div align="center">
   <a href="https://github.com/Natentado">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Natentado&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -15,7 +19,7 @@
   <img align="center" alt="Nate-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nate-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nate-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nate-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Nate-MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ##
