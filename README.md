@@ -3,7 +3,6 @@
 💻 - Desenvolvedor Front End formado pela Kenzie Academy! <br>
 
 <h2>🧮 - Estudando: 
- <img alt="Nate-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
  <img alt="Nate-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></h2>
  
  <br>
