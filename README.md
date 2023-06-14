@@ -1,7 +1,7 @@
 # Olá, sou Nathan Molina!
 
-💻- Desenvolvedor Front End Jr do portal @ChavesNaMão. <br>
-📚- Desenvolvedor Front End formado pela Kenzie Academy! <br>
+💻- Desenvolvedor Front-End Jr no portal @ChavesNaMão. <br>
+📚- Desenvolvedor Front-End formado pela Kenzie Academy! <br>
 
 <h2>🧮 - Estudando: 
  <img alt="logo-PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
