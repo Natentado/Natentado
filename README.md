@@ -3,9 +3,7 @@
 💻- Desenvolvedor Front-End Jr no portal @ChavesNaMão. <br>
 📚- Desenvolvedor Front-End formado pela Kenzie Academy! <br>
 
-<h2>🧮 - Estudando: 
- <img alt="logo-PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
- <img alt="logo-NodeJs" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<h2>🧮 - Estudando...
 </h2>
  
  <br>
