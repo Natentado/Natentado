@@ -2,9 +2,6 @@
 
 💻- Desenvolvedor Front-End Jr no portal @ChavesNaMão. <br>
 📚- Desenvolvedor Front-End formado pela Kenzie Academy! <br>
-
-<h2>🧮 - Estudando...
-</h2>
  
  <br>
 <div>
