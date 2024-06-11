@@ -1,6 +1,6 @@
 # Olá, sou Nathan Molina!
 
-💻- Desenvolvedor Front-End Jr no portal @ChavesNaMão. <br>
+💻- Desenvolvedor Front-End no portal @ChavesNaMão. <br>
 📚- Desenvolvedor Front-End formado pela Kenzie Academy! <br>
  
  <br>
