@@ -5,7 +5,7 @@
  
  <br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; background-color: #fff"><br>
   <img align="center" alt="logo-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="logo-Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
