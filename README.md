@@ -8,6 +8,7 @@
 <div style="display: inline_block; background-color: #fff"><br>
   <img title="Next" align="center" alt="logo-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img title="React" align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="Vue" align="center" alt="logo-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img title="Astro" align="center" alt="logo-Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
   <img title="TypeScript" align="center" alt="logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img title="JavaScript" align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
